@@ -53,6 +53,3 @@ Jupyter Notebook / VS Code
 
 Git & GitHub
 
-📚 Dataset
-
-Trained on the GoEmotions dataset to recognize nuanced emotional expressions.
